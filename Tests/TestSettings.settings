@@ -1,0 +1,48 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="Tests" GeneratedClassName="TestSettings">
+  <Profiles />
+  <Settings>
+    <Setting Name="DbType" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2</Value>
+    </Setting>
+    <Setting Name="DbPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1433</Value>
+    </Setting>
+    <Setting Name="ServiceName" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="DbSchemaName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">alex_cr_ver_db17</Value>
+    </Setting>
+    <Setting Name="DbUsername" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sa</Value>
+    </Setting>
+    <Setting Name="DbPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)">mercurypw12</Value>
+    </Setting>
+    <Setting Name="AlmServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">myd-vm19717.hpeswlab.net</Value>
+    </Setting>
+    <Setting Name="DbServer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">myd-vm04111</Value>
+    </Setting>
+    <Setting Name="AlmPort" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">8080</Value>
+    </Setting>
+    <Setting Name="Domain" Type="System.String" Scope="User">
+      <Value Profile="(Default)">ALEX</Value>
+    </Setting>
+    <Setting Name="Project" Type="System.String" Scope="User">
+      <Value Profile="(Default)">cr_ver</Value>
+    </Setting>
+    <Setting Name="AlmAdminName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">sa</Value>
+    </Setting>
+    <Setting Name="AlmAdminPassword" Type="System.String" Scope="User">
+      <Value Profile="(Default)" />
+    </Setting>
+    <Setting Name="IsHttps" Type="System.Boolean" Scope="User">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
